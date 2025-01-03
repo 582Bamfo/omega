@@ -1,5 +1,5 @@
 who
 whois
 etc
-mkdir
+cp
 touch
