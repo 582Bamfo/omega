@@ -1,5 +1,5 @@
 who
 whois
 etc
-cp
+mv
 touch
