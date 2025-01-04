@@ -1,5 +1,5 @@
 who
 whois
 etc
-rm
+sh
 touch

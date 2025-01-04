@@ -1,3 +1,3 @@
 linux
-terraform
+github
 aws ==>{}
