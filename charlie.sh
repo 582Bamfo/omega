@@ -1,3 +1,3 @@
 linux
-git
+github
 aws ==>{}
